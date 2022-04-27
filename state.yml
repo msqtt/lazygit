@@ -1,11 +1,11 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/mosquito/.config/lazygit
+- /home/mosquito/.config/nvim
+- /home/mosquito/.config/ranger
 - /home/mosquito/zsh
 - /home/mosquito/.config/picom
-- /home/mosquito/.config/ranger
 - /home/mosquito/Software/dwm
-- /home/mosquito/.config/nvim
 - /home/mosquito/Software/slock
 - /home/mosquito/Software/config
 - /home/mosquito/Software/demenu
