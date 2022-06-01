@@ -1,17 +1,25 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/mosquito/.config/lazygit
-- /home/mosquito/.config/nvim
 - /home/mosquito/.config/ranger
 - /home/mosquito/zsh
-- /home/mosquito/.config/picom
 - /home/mosquito/Software/dwm
-- /home/mosquito/Software/slock
-- /home/mosquito/Software/config
+- /home/mosquito/Project/Note
+- /home/mosquito/Project/logNCat
+- /home/mosquito/Downloads/chrome/unipus
+- /home/mosquito/Documents/github/note
+- /home/mosquito/.config/nvim
+- /home/mosquito/Project/blog/docs/.vuepress/dist
+- /home/mosquito/.config/picom
+- /home/mosquito/Software/st
 - /home/mosquito/Software/demenu
+- /home/mosquito/Software/slock
+- /home/mosquito/Documents/github/PrivateDoc
+- /home/mosquito/Documents/note
+- /home/mosquito/chatRoom
 startuppopupversion: 5
 customcommandshistory:
 - q
 - ls
 - ""
-hidecommandlog: false
+hidecommandlog: true
